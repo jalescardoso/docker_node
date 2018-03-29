@@ -1,4 +1,4 @@
-## example run and config docker with Nodejs
+## Example run and config docker with Nodejs
 
 ## Build
 
