@@ -2,8 +2,8 @@
 
 ## Build
 
-Run `docker-compose build` to build the project.
+Run `docker-compose build` to build the image.
 
 ## Start
 
-Run `docker-composer up` to start project.
+Run `docker-composer up` to start image.
